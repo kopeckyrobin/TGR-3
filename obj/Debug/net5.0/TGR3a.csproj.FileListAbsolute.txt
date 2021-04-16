@@ -1,0 +1,15 @@
+/Users/robinkopecky/Projects/TGR3a/TGR3a/bin/Debug/net5.0/TGR3a.deps.json
+/Users/robinkopecky/Projects/TGR3a/TGR3a/bin/Debug/net5.0/TGR3a.runtimeconfig.json
+/Users/robinkopecky/Projects/TGR3a/TGR3a/bin/Debug/net5.0/TGR3a.runtimeconfig.dev.json
+/Users/robinkopecky/Projects/TGR3a/TGR3a/bin/Debug/net5.0/TGR3a.dll
+/Users/robinkopecky/Projects/TGR3a/TGR3a/bin/Debug/net5.0/ref/TGR3a.dll
+/Users/robinkopecky/Projects/TGR3a/TGR3a/bin/Debug/net5.0/TGR3a.pdb
+/Users/robinkopecky/Projects/TGR3a/TGR3a/obj/Debug/net5.0/TGR3a.csprojAssemblyReference.cache
+/Users/robinkopecky/Projects/TGR3a/TGR3a/obj/Debug/net5.0/TGR3a.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robinkopecky/Projects/TGR3a/TGR3a/obj/Debug/net5.0/TGR3a.AssemblyInfoInputs.cache
+/Users/robinkopecky/Projects/TGR3a/TGR3a/obj/Debug/net5.0/TGR3a.AssemblyInfo.cs
+/Users/robinkopecky/Projects/TGR3a/TGR3a/obj/Debug/net5.0/TGR3a.csproj.CoreCompileInputs.cache
+/Users/robinkopecky/Projects/TGR3a/TGR3a/obj/Debug/net5.0/TGR3a.dll
+/Users/robinkopecky/Projects/TGR3a/TGR3a/obj/Debug/net5.0/ref/TGR3a.dll
+/Users/robinkopecky/Projects/TGR3a/TGR3a/obj/Debug/net5.0/TGR3a.pdb
+/Users/robinkopecky/Projects/TGR3a/TGR3a/obj/Debug/net5.0/TGR3a.genruntimeconfig.cache
